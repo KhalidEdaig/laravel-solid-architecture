@@ -6,7 +6,7 @@
 
 * Laravel jwt for OAuth Authentication
 * A modern exception handler for APIs.
-* A base repository class for requesting entities from your database.
+* multi Authentication
 
 
 
