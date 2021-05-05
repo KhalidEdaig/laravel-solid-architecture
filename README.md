@@ -11,7 +11,7 @@
 
 
 ```bash
-git clone https://github.com/KhalidEdaig/Laravel-solid-architecture && cd Laravel-solid-architecture && sh ./scripts/install.sh
+git clone https://github.com/KhalidEdaig/Laravel-solid-architecture && cd Laravel-solid-architecture && composer install 
 ```
 
 This will:
